@@ -5,7 +5,7 @@
 - R&D projects in steel manufacturing (BMZ, R² = 0.9987)
 - 3 years in diffusion processes at INTEGRAL
 - Current research: ML for microelectronics (oxide thickness prediction in emitter diffusion)
-- Classical ML, statistics, mathematical analysis
+- Classic ML, statistics, mathematical analysis
 - Python, pandas, sklearn, XGBoost, Airflow, Docker
 - English B2 (understanding without subtitles)
 
