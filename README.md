@@ -7,7 +7,7 @@
 - Current research: ML for microelectronics (oxide thickness prediction in emitter diffusion)
 - Classic ML, statistics, mathematical analysis
 - Python, pandas, sklearn, XGBoost, Airflow, Docker
-- English B2 (understanding without subtitles)
+- English B2
 
 ## 📌 Featured projects
 - [Steel Cooling Dynamics] – R² = 0.9987 (BMZ)
